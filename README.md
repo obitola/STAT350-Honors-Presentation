@@ -1,3 +1,3 @@
 # STAT350-Honors-Presentation
 
-![alt text](../blob/master/presentation.png)
+![alt text](https://raw.githubusercontent.com/obitola/blob/master/presentation.png)
