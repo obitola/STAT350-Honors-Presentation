@@ -1,3 +1,3 @@
 # STAT350-Honors-Presentation
 
-![alt text](../presentation.png)
+![alt text](../master/presentation.png)
